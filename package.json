@@ -1,8 +1,8 @@
 {
   "author": "Lee Crossley <leee@hotmail.co.uk> (https://github.com/leecrossley)",
-  "name": "Real-Simple-Server",
+  "name": "realsimpleserver",
   "description": "Spin up a real simple http server with node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/leecrossley/Real-Simple-Server",
   "repository": {
     "type": "git",
